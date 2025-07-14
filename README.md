@@ -1,4 +1,4 @@
-Project Overview: Exploring the Key Potentials of Power BI – Analyzing the Sales Data
+**Project Overview: Exploring the Key Potentials of Power BI – Analyzing the Sales Data**
 This project demonstrates how to leverage Microsoft Power BI to transform raw business data into actionable insights for strategic decision-making. Using a comprehensive sales dataset from a simulated automotive company, the project covers the full end-to-end BI workflow: data preparation, modeling, visualization, and advanced analytics.
 
 Key features of this project include:
